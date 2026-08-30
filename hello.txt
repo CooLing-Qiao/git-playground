@@ -1,4 +1,4 @@
-Hello Git!
+Hello from feature branch!
 This is my third version.
 Git is getting clearer.
 Main branch change.
